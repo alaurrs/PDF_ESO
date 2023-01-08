@@ -1,12 +1,16 @@
 {% extends 'base.html' %}
 
 {% block head %}
-<h1>Template</h1>
+<h1>PDF ESO</h1>
 {% endblock %}
 
 {% block body %}
-<form action = "/success" method = "post" enctype="multipart/form-data">  
-    <input type="file" name="file" />  
-    <input type = "submit" value="Upload">  
-</form>  
+<div class="mb-3">
+    <form class="mb-3" action = "/success" method="post" enctype="multipart/form-data">  
+        <input class ="form-control" type="file" name="file" />  
+        <br>
+        <button class="btn btn-primary" type = "submit" value="Upload">Valider</button>
+    </form>  
+</div>
+
 {% endblock %}
