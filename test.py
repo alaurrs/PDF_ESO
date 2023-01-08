@@ -87,8 +87,4 @@ def extract_information(pdf_path):
         cells=dict(values=[df[k].tolist() for k in df.columns])
     )])
     
-    fig.update_layout(
-        style={"height": "10em"}
-    )
-    
     return fig

@@ -1,199 +1,194 @@
-DCEO1 - UE 2.1 - CC nÂ°1 du 13/11/2019 / BAUDAIS Julie 10 / 11
-DÃ©tail des rÃ©ponses
+DCEO1 - UE 2.1 - CC n°1 du 05/12/2018 / BOISBOUVIER Nicolas 10 / 11
+Détail des réponses
 
-Q1 La notice d'un mÃ©dicament indique que sa voie d'administration est cutanÃ©e. Cela signifie que : (2)
-a)  Le passage du mÃ©dicament se fera Ã  travers la
-peau jusqu'Ã  la circulation gÃ©nÃ©rale
-b)  L'application du mÃ©dicament doit se faire sur
-la peau
-c)  Il s'agit d'une voie locale
-d)  Il s'agit d'une voie systÃ©mique
-e)  L'application du mÃ©dicament ne peut se faire
-que sur un patient conscient
+Q1 Parmi les propositions suivantes concernant l'homéopathie, lesquelles sont inexactes? (2)
+a)  Les médicaments homéopathiques sont
+préparés exclusivement dans une officine
+b)  L'homéopathie est basée sur un principe de
+similitude et d'infinitésimalité.
+c)  L'homéopathie a été décrite par Samuel
+Hahnemann (1745-1843)
+d)  Les matières premières homéopathiques sont
+d'origine végétale, animale, minérale ou microbienne.
+e)  L'allopathie est une partie de l'homéopathie
+qui vise à prévenir les maladies plutôt qu'à les traiter.
 
-Q2 Parmi les propositions suivantes, lesquelles sont des avantages de la voie intra-veineuse? (2)
-a)  Une rapiditÃ© d'action
-b)  Une biodisponibilitÃ© absolue
-c)  La prÃ©paration doit obligatoirement Ãªtre
-stÃ©rile
-d)  Le principe actif peut subir l'effet de premier
-passage hÃ©patique
-e)  Cette voie d'administration prÃ©sente un risque
-d'infection
+Q2 Parmi les propositions suivantes, laquelle ou lesquelles sont exactes ?(3)
+a)  La pharmacologie est constituée de la
+pharmacocinétique et de la pharmacodynamie.
+b)  La pharmacodynamie correspond à l'action du
+médicament sur l'organisme.
+c)  La pharmacocinétique correspond à l'action du
+médicament sur l'organisme.
+d)  Les produits de contraste en imagerie
+médicale sont considérés comme des médicaments.
+e)  Les essais cliniques sont réalisés sur les
+animaux.
 
-Q3 Parmi les propositions suivantes, une correspond Ã  une forme galÃ©nique Ã  libÃ©ration accÃ©lÃ©rÃ©e pour
-la voie orale, laquelle?
-a)  Les suppositoires
-b)  Les comprimÃ©s sÃ©cables
-c)  Les comprimÃ©s effervescents
-d)  Les patchs
-e)  Les lyophilisats oraux (Lyocs)
+Q3 Parmi les propositions suivantes, laquelle ou lesquelles sont exactes ? (3)
+a)  On appelle médicament générique une copie
+du médicament original (spécialité princeps). Il peut ensuite
+être développé et commercialisé par un autre laboratoire.
+b)  Lorsqu'un laboratoire met au point un
+médicament, il garde l'exclusivité de sa commercialisation
+pendant une période de 10 ans après le dépôt du brevet.
+c)  Les spécialités génériques possèdent une
+AMM
+d)  Tous les effets secondaires et indésirables
+sont découverts lors des essais sur les médicaments
+e)  AMM signifie autorisation de mise sur le
+marché
 
-Q4 Toutes les affirmations suivantes, concernant la voie d'administration orale sont exactes, sauf une,
-laquelle?
-a)  Elle entraine un effet de premier passage
-hÃ©patique pour les mÃ©dicaments Ã  action systÃ©mique
-b)  Elle permet une action systÃ©mique
-c)  Elle est une voie d'action peu rapide
-d)  Elle est assimilable Ã  la voie sublinguale
-e)  Elle ne permet pas l'administration de tous les
-mÃ©dicaments
+Q4 Lors de la prescription médicale, la manière la plus usuelle de désigner les médicaments, est encore
+aujourd'hui, par
+a)  Leur dénomination chimique.
+b)  Leur nom générique.
+c)  Leur dénomination commune internationale.
+d)  Le nom du laboratoire fabricant.
+e)  Leur nom commercial déposé.
 
-Q5 Laquelle est inexacte? Toute prÃ©paration destinÃ©e Ã  la voie parentÃ©rale doit Ãªtre
-a)  apyrogÃ¨ne
-b)  limpide
-c)  neutre (pH proche)
-d)  Isotonique
-e)  Incolore et inodore
+Q5 Laquelle est inexacte ? L'AMM assure qu'ont été démontrées, au moment de l'examen, pour chaque
+médicament.
+a)  La qualité de fabrication du médicament.
+b)  L'innocuité du médicament.
+c)  L'efficacité du médicament.
+d)  La sécurité d'emploi du médicament.
+e)  Un rapport bénéfice/risque bénéfique.
 
-Q6 Parmi les propositions suivantes, laquelle est inexacte ? La non-observance d'un traitement par un
-malade :
-a)  Peut entraÃ®ner une aggravation de l'Ã©tat du
-malade.
-b)  Peut Ãªtre due Ã  une ordonnance compliquÃ©e
-et mal expliquÃ©e.
-c)  A peu d'influence sur l'efficacitÃ© du traitement.
-d)  Peut Ãªtre due Ã  un patient qui se croit guÃ©ri
-dÃ¨s les premiers jours du traitement.
-e)  Peut Ãªtre due Ã  un patient qui craint que les
-mÃ©dicaments soient toxiques pour lui.
+Q6 Parmi les propositions suivantes, concernant l'aspirine, lesquelles sont inexactes ? (3)
+a)  L'aspirine fait parti des antiinflammatoires non
+stéroïdiens (AINS).
+b)  L'aspirine présente un risque hémorragique à
+toute dose.
+c)  Les AINS augmentent la production de
+prostaglandines, médiateurs de l'organisme.
+d)  L'aspirine fait parti des corticoïdes (anti
+inflammatoire stéroïdiens, AIS).
+e)  La durée d'action de son effet antiagrégant est
+d'une semaine ce qui correspond au temps nécessaire à la
+synthèse d'une nouvelle enzyme.
 
-Q7 Parmi les catÃ©gories d'ordonnances suivantes, laquelle correspond Ã  un traitement des ALD
-(affections longue durÃ©e)?
-a)  Ordonnance classique
-b)  Ordonnance bi-zone
-c)  Ordonnance sÃ©curisÃ©e
-d)  Ordonnance d'exception
+Q7 Les dérivés morphiniques possèdent les propriétés suivantes, sauf une, laquelle ?
+a)  Antalgique
+b)  Sédatif - Hypnotique
+c)  Constipant
+d)  Fluidifiant des sécrétions bronchiques
+e)  Dépresseur respiratoire
 
-Q8 Parmi les propositions suivantes, concernant les excipients, lesquelles sont exactes?
-a)  Les excipients sont inertes sur un plan
-pharmacologique
-b)  Les excipients sont souvent issus du milieu
-agroalimentaire
-c)  Les excipients peuvent interagir
-chimiquement avec le principe actif
-d)  Des excipients peuvent Ãªtre dÃ©conseillÃ©s dans
-certains cas physiologiques : ce sont les excipients Ã  effet
-notoire
-e)  Les excipients ne servent qu'Ã  protÃ©ger le
-principe actif et non Ã  rÃ©aliser la forme galÃ©nique
+Q8 Parmi les propositions suivantes, laquelle est inexacte ? La mise en forme galénique a pour but
+a)  De favoriser la conservation des matières
+premières.
+b)  De masquer et de corriger les goûts et les
+odeurs du PA pour améliorer l'observance du traitement.
+c)  De modifier la durée de l'activité
+thérapeutique du principe actif.
+d)  De cibler la délivrance du principe actif (PA).
+e)  D'augmenter l'activité thérapeutique du
+principe actif.
 
-Q9 Parmi les propositions suivantes, concernant les mÃ©dicaments gÃ©nÃ©riques, lesquelles sont exactes?
-(2)
-a)  Les mÃ©dicaments gÃ©nÃ©riques sont des
-spÃ©cialitÃ©s.
-b)  Les mÃ©dicaments gÃ©nÃ©riques  n'ont pas besoin
-d'AMM, leur activitÃ© Ã©tant dÃ©jÃ  dÃ©montrÃ©es.
-c)  Les mÃ©dicaments gÃ©nÃ©riques ont montrÃ© une
-plus grande sÃ©curitÃ© d'emploi que les princeps.
-d)  Les gÃ©nÃ©riques et les princeps sont dits
-bioÃ©quivalents.
-e)  Les gÃ©nÃ©riques sont dans tous les cas Ã 
-privilÃ©gier, mÃªme dans les traitements chroniques.
-
-Q10 Quelles sont les 3 phases obligatoires pour qu'une activitÃ© thÃ©rapeutique puisse s'exercer Ã  partir
-d'un comprimÃ©?
-a)  L'Ã©limination des excipients
-b)  La dÃ©sagrÃ©gation de la forme galÃ©nique
-c)  La dissolution du principe actif
-d)  La neutralisation de la forme galÃ©nique
-e)  L'absorption du principe actif Ã  travers les
-muqueuses digestives
-
-Q11 Parmi les voies d'administration suivantes, laquelle est la moins rapide?
-a)  La voie orale
+Q9 Parmi les propositions suivantes, une n'est pas une voie locale et générale. Laquelle?
+a)  La voie orale-bucco-pharyngée
 b)  La voie rectale
-c)  La voie intra-musculaire
-d)  La voie perlinguale
-e)  La voie pulmonaire
+c)  La voie nasale
+d)  La voie pulmonaire
+e)  La voie auriculaire
 
-Q12 A quel type de traitement correspond la dÃ©finition suivantes: "traitement par des minÃ©raux
-prÃ©sents en faible quantitÃ© dans l'organisme"?
-a)  L'HomÃ©opathie
-b)  L'allopathie
-c)  La gemmothÃ©rapie
-d)  L'oligothÃ©rapie
-e)  L'aromathÃ©rapie
+Q10 Parmi les propositions suivantes, laquelle est exacte ? Les excipients à effet notoire.
+a)  Seuls les excipients d'origine animale figurent
+sur la liste des excipients à effets notoires.
+b)  Les excipients à effets notoires présentent une
+toxicité envers tout à chacun.
+c)  Les excipients à effet notoire sont des
+excipients pouvant présenter une toxicité envers certaines
+catégories d'individus.
+d)  Les spécialités princeps ne contiennent jamais
+d'excipient à effet notoire.
+e)  Les oses (amidon, cellulose, lactose,..) ne font
+pas parti de la liste des excipients à effet notoire.
 
-Q13 Parmi les professionnels de santÃ©, un ne peut prescrire que des produits Ã  usage externe non
-listÃ©s, lequel?
-a)  Les vÃ©tÃ©rinaires
-b)  Les podologues -pÃ©dicures
-c)  Les infirmiers
-d)  Les kinÃ©sithÃ©rapeutes
-e)  Les sages-femmes
+Q11 Parmi les propositions suivantes, laquelle est exacte ? La phase pharmaceutique
+a)  Est postérieure à la phase de résorption
+b)  Correspond à l'étape de dégradation du
+principe actif
+c)  Correspond à la libération du principe actif à
+partir du médicament
+d)  Correspond à la mise en forme galénique du
+principe actif
+e)  Correspond à la phase pharmacodynamique
 
-Q14 L'autorisation de mise sur le marchÃ© d'un mÃ©dicament peut Ãªtre accordÃ© en France que par (2)
-a)  L'agence europÃ©enne du mÃ©dicament
-b)  Le ministÃ¨re de la SantÃ©
-c)  L'agence nationale de sÃ©curitÃ© des
-mÃ©dicaments et des produits de santÃ© (ANSM)
-d)  La FDA (Food and Drug Administration)
-e)  L'Organisation mondiale de la santÃ© (OMS)
+Q12 Parmi les propositions suivantes concernant les avantages de la voie orale, 3 sont exactes,
+lesquelles?
+a)  Une facilité d'administration.
+b)  Peut être utilisée chez un malade inconscient. 
+c)  La voie orale ne permet l'administration que
+de petite quantité de produit.
+d)  Ne nécessite pas de personnel qualifié.
+e)  Se donne en ambulatoire.
 
-Q15 Parmi les propositions suivantes, concernant la Pharmacovigilance, lesquelles sont exactes? (3)
-a)  La pharmacovigilance ne concerne que les
-mÃ©dicaments inscrits sur une liste de substances
-vÃ©nÃ©neuses
-b)  La Pharmacovigilance est sous le contrÃ´le de
-l'ANSM
-c)  Tout le monde peut dÃ©clarer une suspicion
-d'effets secondaires inattendus d'un mÃ©dicament
-d)  Seuls les professionnels de santÃ© sont
-habilitÃ©s Ã  effectuer une dÃ©claration de Pharmacovigilance
-e)  Tous les laboratoires pharmaceutiques
-peuvent recevoir et traiter une dÃ©claration de
-pharmacovigilance.Ils travaillent en collaboration avec
-l'organisme nationale de pharmacovigilance
+Q13 Parmi les propositions suivantes concernant le système vasculaire responsable de l'effet de
+premier passage hépatique pour la voie orale, laquelle est exacte?
+a)  Le système rénine-angiotensine-aldostérone.
+b)  Le système nerveux.
+c)  Le système porte.
+d)  La circulation pulmonaire.
+e)  La veine cave inférieure.
 
-Q16 Cochez la ou les bonne(s) rÃ©ponse(s) :
-a)  La pharmacodynamie dÃ©crit l'interaction du
-mÃ©dicament avec sa cible et les effets qui en rÃ©sultent
-b)  La pharmacocinÃ©tique dÃ©crit l'interaction du
-mÃ©dicament avec sa cible et les effets qui en rÃ©sultent
-c)  La pharmacocinÃ©tique dÃ©crit le devenir du
-mÃ©dicament dans l'organisme
-d)  La pharmacodynamie dÃ©crit le devenir du
-mÃ©dicament dans l'organisme
-e)  La pharmacovigilance assure la surveillance
-des effets indÃ©sirables du mÃ©dicament avant la mise sur le
-marchÃ©
+Q14 Parmi les propositions suivantes, lesquelles sont exactes ? L'effet de premier passage hépatique
+(PPH) (3)
+a)  Est faible pour la voie rectale
+b)  Est fort pour la voie orale.
+c)  Est nul pour les patchs traitant la ménopause.
+d)  Est nul pour les formes à libération prolongée.
+e)  Est nul pour la voie sublinguale.
 
-Q17 Parmi les propositions suivantes concernant la pharmacovigilance, lesquelles sont exactes? (3)
-a)  Elle se fait uniquement les premiers mois de
-commercialisation d'un mÃ©dicament
-b)  Elle a pour objet, entre autres, de prÃ©venir les
-effets indÃ©sirables mÃ©dicamenteux
-c)  Elle n'a pas pour objet d'Ã©valuer l'efficacitÃ©
-des mÃ©dicaments
-d)  Elle permet d'imputer ou non l'apparition
-d'effets inattendus Ã  la prise d'un mÃ©dicament
-e)  Les Ã©tudes de pharmacologie font parties de
-la pharmacovigilance
+Q15 Parmi les propositions suivantes, lesquelles sont exactes ? Le transport actif (3)
+a)  Se fait contre le gradient de concentration.
+b)  Concerne toutes les molécules.
+c)  Nécessite toujours un transporteur.
+d)  Consomme de l'énergie et suit le gradient de
+concentration.
+e)  Le transport actif est spécifique et saturable.
 
-Q18 Qu'appelle-t-on la "marge thÃ©rapeutique" ?
-a)  C'est la dose minimale Ã  donner pour voire
-apparaÃ®tre un effet physiologique
-b)  C'est la biotransformation d'un principe actif
-c)  C'est la dose maximale Ã  donner pour ne pas
-voire apparaÃ®tre un effet physiologique indÃ©sirable
-d)  C'est l'Ã©cart (ou rapport) entre le seuil
-d'efficacitÃ© et le seuil de toxicitÃ©
-e)  C'est le bÃ©nÃ©fice rÃ©alisÃ© par le pharmacien sur
-la vente du mÃ©dicament
+Q16 Laquelle est inexacte ? Les facteurs qui peuvent influencer l'absorption des médicaments
+administrés par voie orale sont
+a)  Les repas.
+b)  Les troubles du transit intestinal.
+c)  Les pansements gastriques (Phosphalugel,
+Smecta)
+d)  L'eczéma.
+e)  L'âge.
 
-Q19 Parmi les mÃ©dicaments suivants, lesquels prÃ©sentent une biodisponibilitÃ© nulle par voie orale? (3)
-a)  Les laxatifs
-b)  Le charbon actif
-c)  Les antisÃ©crÃ©teurs gastriques tels les IPP
-d)  Les antalgiques tels le paracÃ©tamol
-e)  Les probiotiques
+Q17 Qu'appelle-t-on marge thérapeutique ? (2)
+a)  C'est la dose maximale à donner pour ne pas
+voire apparaître un effet physiologique
+b)  C'est la dose minimale à donner pour voire
+apparaître un effet physiologique
+c)  C'est l'écart (ou rapport) entre le seuil
+d'efficacité et le seuil de toxicité
+d)  C'est la dose quotidienne du médicament à
+donner.
+e)  Elle est synonyme d'« index thérapeutique ».
 
-Q20 Parmi les laxatifs suivants, lesquels prÃ©sentent un risque d'hypokaliÃ©mie?
-a)  Les laxatifs stimulants
-b)  Les laxatifs osmotiques
-c)  Les laxatifs Ã  base de sÃ©nÃ©, bourdaine,
-cascara ou aloe vera
-d)  Les laxatifs lubrifiants
-e)  Les laxatifs de lest
+Q18 Quelles sont les doses max du paracétamol?
+a)  1 g par prise et 3 g par 24 heures
+b)  2 g par prise et 4 par 24 h
+c)  2 g par prise et 6 par 24 heures
+d)  1 g par prise et 4 g par 24 h
+
+Q19 On peut augmenter l'effet d'un médicament éliminé à  sous forme inchangée par le rein en
+modifiant certains paramètres (2 )
+a)  En augmentant la dose.
+b)  En diminuant sa clairance rénale.
+c)  En augmentant la fréquence cardiaque.
+d)  En associant un inducteur des cytochromes
+P450.
+e)  En diminuant sa biodisponibilité
+
+Q20 Pour traiter une crise de migraine, 3 familles de médicaments peuvent être utilisées, lesquelles?
+a)  Des dérivés de l'ergot de seigle
+b)  Des médicaments de la famille des "triptans"
+c)  Des molécules antalgiques telles le
+paracétamol ou les AINS
+d)  Des béta-bloquants tels le propranolol
+e)  Des antalgiques de palier III
 
