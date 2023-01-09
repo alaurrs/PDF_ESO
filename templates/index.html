@@ -1,16 +1,10 @@
-{% extends 'base.html' %}
+{% extends "base.html" %}
 
-{% block head %}
-<h1>PDF ESO</h1>
-{% endblock %}
-
-{% block body %}
-<div class="mb-3">
-    <form class="mb-3" action = "/success" method="post" enctype="multipart/form-data">  
-        <input class ="form-control" type="file" name="file" />  
-        <br>
-        <button class="btn btn-primary" type = "submit" value="Upload">Valider</button>
-    </form>  
-</div>
-
+{% block content %}
+<h1 class="title">
+  PDF ESO
+</h1>
+<h2 class="subtitle">
+  Tableau de Q/R à partir d'une annale au format PDF
+</h2>
 {% endblock %}
