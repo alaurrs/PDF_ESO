@@ -1,14 +1,19 @@
 from flask import Blueprint, render_template, redirect, url_for, request, flash
 from . import db
 from werkzeug.security import generate_password_hash, check_password_hash
+from werkzeug.utils import secure_filename
 from .models import User
 from flask_login import login_user,login_required, logout_user
 from .test import extract_information
 import json
 import plotly.graph_objects as go
 import plotly
+import os
 
 auth = Blueprint('auth', __name__)
+
+UPLOAD_FOLDER = os.path.join("components","files")
+ALLOWED_EXTENSIONS = {'pdf'}
 
 @auth.route('/logout')
 @login_required
@@ -72,12 +77,26 @@ def signup_post():
 def upload():
     return render_template('upload.html')
 
+def allowed_file(filename):
+    return '.' in filename and \
+        filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
 @auth.route('/upload', methods=['POST'])
 @login_required
 def upload_post():
     if request.method == 'POST':  
         f = request.files['file']
-        f.save(f.filename)  
-        fig = extract_information(f.filename)
-        graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
-        return render_template("result.html", graphJSON = graphJSON,name = f.filename)  
+        if f.filename == '':
+            flash('Sélectionnez un fichier !')
+            return redirect(request.url)
+        if not (allowed_file(f.filename)):
+            flash('Extension de fichier invalide !')
+            return redirect(request.url)
+        if f and allowed_file(f.filename):
+            filename = secure_filename(f.filename)
+            file_path = os.path.join(UPLOAD_FOLDER,filename)
+            f.save(file_path)
+            fig = extract_information(file_path)
+            graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+            return render_template("result.html", graphJSON = graphJSON,name = filename)  
+    return 'Extension non autorisée'
