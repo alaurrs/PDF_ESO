@@ -2,3 +2,4 @@ pypdf2
 flask
 plotly
 pandas
+flask_sqlalchemy
