@@ -1,5 +1,4 @@
 pypdf2
 flask
 plotly
-json
 pandas
